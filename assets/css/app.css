@@ -1,0 +1,47 @@
+#logo {
+  background: transparent url(../img/logo.png) no-repeat center center;
+  height: 31px;
+  text-indent: -9999px;
+  width: 143px;
+  margin-top: 9px;
+  margin-right: 15px;
+}
+
+.label .close {
+  float: none;
+  vertical-align: -4px;
+}
+
+.navbar-custom {
+  background-color: #B53533;
+  border-color: #9F2F2D;
+  padding: 0 20px;
+}
+
+.navbar-custom .navbar-text {
+  color: #EDC0BF;
+}
+
+.navbar-custom a {
+  color: #401312;
+}
+
+.navbar-custom .navbar-btn {
+  background-color: #fff;
+  border-color: #fff;
+  color: #B53533;
+}
+
+.wrapper {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.img-poster {
+  margin-top: 15px;
+}
+
+.col-movie {
+  height: 185px;
+  overflow: hidden;
+}
